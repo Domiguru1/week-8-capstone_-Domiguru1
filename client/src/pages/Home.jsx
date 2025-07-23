@@ -31,9 +31,9 @@ const Home = () => {
           <div className="hero-content">
             <div className="hero-text">
               <h1 className="hero-title">
-                Hi, I'm <span className="highlight">Your Name</span>
+                Hi, I'm <span className="highlight">Dominic Njenga</span>
                 <br />
-                Full-Stack Developer
+                Full-Stack Developer Guru
               </h1>
               <p className="hero-description">
                 I create beautiful, responsive web applications using modern technologies. 

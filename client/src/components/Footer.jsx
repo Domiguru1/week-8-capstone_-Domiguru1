@@ -16,7 +16,7 @@ const Footer = () => {
               and delivering exceptional user experiences.
             </p>
             <div className="social-links">
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="social-link">
+              <a href="https://github.com/Domiguru1" target="_blank" rel="noopener noreferrer" className="social-link">
                 <FaGithub />
               </a>
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-link">
@@ -53,11 +53,11 @@ const Footer = () => {
             <div className="contact-info">
               <div className="contact-item">
                 <FaEnvelope />
-                <span>hello@portfolio.com</span>
+                <span>mdnmbugua@gmail.com</span>
               </div>
               <div className="contact-item">
                 <FaPhone />
-                <span>+1 (555) 123-4567</span>
+                <span>+254 (071) 588-6551</span>
               </div>
             </div>
           </div>

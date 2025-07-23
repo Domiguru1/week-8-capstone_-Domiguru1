@@ -48,7 +48,7 @@ const Portfolio = () => {
       {/* Portfolio Header */}
       <section className="section" style={{ background: '#f8fafc' }}>
         <div className="container">
-          <h1 className="section-title">My Portfolio</h1>
+          <h1 className="section-title">Mbugua Tech</h1>
           <p style={{ textAlign: 'center', fontSize: '1.1rem', color: '#64748b', maxWidth: '600px', margin: '0 auto' }}>
             Here's a collection of projects I've worked on, showcasing different technologies and approaches to problem-solving.
           </p>
